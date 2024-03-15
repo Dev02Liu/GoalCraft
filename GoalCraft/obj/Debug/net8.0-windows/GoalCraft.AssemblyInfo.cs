@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GoalCraft")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa9690a56579dd406fcc35327ac1466974fd36c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51ff53ec8026821686657cb52e3b45a574222d8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("GoalCraft")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GoalCraft")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
