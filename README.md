@@ -1,7 +1,7 @@
 # GoalCraft
 A desktop application for setting, tracking, and achieving goals
 
-Overview
+# Overview
 GoalCraft is a desktop application designed to help users set, track, and achieve their goals with ease. By breaking down goals into detailed steps and manageable tasks, GoalCraft encourages progress and provides a structured approach to personal and professional development.
 
 Features
