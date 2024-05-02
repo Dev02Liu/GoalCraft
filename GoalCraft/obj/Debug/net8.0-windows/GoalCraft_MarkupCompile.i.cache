@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\02liu\Desktop\GoalCraft\GoalCraft\App.xaml
-11407045341
+5-1883442871
 
-6-1535221281
-198915248976
-MainWindow.xaml;
+17-1300133066
+238-1529071166
+MVVM\View\CreateView.xaml;MVVM\View\HomeView.xaml;MVVM\View\MainWindow.xaml;MVVM\View\ManageView.xaml;MVVM\View\NavBarView.xaml;
 
 True
 

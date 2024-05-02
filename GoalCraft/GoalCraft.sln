@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.9.34701.34
+VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoalCraft", "GoalCraft.csproj", "{EC6338CE-2556-4260-A84D-526A6AC5FADE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoalCraft", "GoalCraft.csproj", "{18E9B18C-9DB8-408A-A5F0-1A314592903F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EC6338CE-2556-4260-A84D-526A6AC5FADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EC6338CE-2556-4260-A84D-526A6AC5FADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EC6338CE-2556-4260-A84D-526A6AC5FADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EC6338CE-2556-4260-A84D-526A6AC5FADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18E9B18C-9DB8-408A-A5F0-1A314592903F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E9B18C-9DB8-408A-A5F0-1A314592903F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E9B18C-9DB8-408A-A5F0-1A314592903F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E9B18C-9DB8-408A-A5F0-1A314592903F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {162D3B19-0C08-4E53-B966-2F7996B3DFF2}
+		SolutionGuid = {FBD085A2-6E83-4483-A461-A73AAB166336}
 	EndGlobalSection
 EndGlobal

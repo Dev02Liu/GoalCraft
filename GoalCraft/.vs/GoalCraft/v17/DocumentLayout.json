@@ -3,12 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC6338CE-2556-4260-A84D-526A6AC5FADE}|GoalCraft.csproj|c:\\users\\02liu\\desktop\\goalcraft\\goalcraft\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC6338CE-2556-4260-A84D-526A6AC5FADE}|GoalCraft.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|c:\\users\\02liu\\desktop\\goalcraft\\goalcraft\\mvvm\\view\\createview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|solutionrelative:mvvm\\view\\createview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC6338CE-2556-4260-A84D-526A6AC5FADE}|GoalCraft.csproj|c:\\users\\02liu\\desktop\\goalcraft\\goalcraft\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EC6338CE-2556-4260-A84D-526A6AC5FADE}|GoalCraft.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|c:\\users\\02liu\\desktop\\goalcraft\\goalcraft\\mvvm\\view\\createview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|solutionrelative:mvvm\\view\\createview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|c:\\users\\02liu\\desktop\\goalcraft\\goalcraft\\mvvm\\view\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|solutionrelative:mvvm\\view\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|c:\\users\\02liu\\desktop\\goalcraft\\goalcraft\\mvvm\\viewmodel\\createviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|solutionrelative:mvvm\\viewmodel\\createviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|c:\\users\\02liu\\desktop\\goalcraft\\goalcraft\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|solutionrelative:commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|c:\\users\\02liu\\desktop\\goalcraft\\goalcraft\\mvvm\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|solutionrelative:mvvm\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|c:\\users\\02liu\\desktop\\goalcraft\\goalcraft\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|solutionrelative:mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|c:\\users\\02liu\\desktop\\goalcraft\\goalcraft\\mvvm\\viewmodel\\navbarviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|solutionrelative:mvvm\\viewmodel\\navbarviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|c:\\users\\02liu\\desktop\\goalcraft\\goalcraft\\mvvm\\viewmodel\\manageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|solutionrelative:mvvm\\viewmodel\\manageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|c:\\users\\02liu\\desktop\\goalcraft\\goalcraft\\mvvm\\viewmodel\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|solutionrelative:mvvm\\viewmodel\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|c:\\users\\02liu\\desktop\\goalcraft\\goalcraft\\mvvm\\view\\navbarview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|solutionrelative:mvvm\\view\\navbarview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|c:\\users\\02liu\\desktop\\goalcraft\\goalcraft\\mvvm\\view\\manageview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|solutionrelative:mvvm\\view\\manageview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|c:\\users\\02liu\\desktop\\goalcraft\\goalcraft\\mvvm\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|solutionrelative:mvvm\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|c:\\users\\02liu\\desktop\\goalcraft\\goalcraft\\mvvm\\view\\manageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|solutionrelative:mvvm\\view\\manageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|c:\\users\\02liu\\desktop\\goalcraft\\goalcraft\\mvvm\\view\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|solutionrelative:mvvm\\view\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|c:\\users\\02liu\\desktop\\goalcraft\\goalcraft\\mvvm\\view\\navbarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|solutionrelative:mvvm\\view\\navbarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|c:\\users\\02liu\\desktop\\goalcraft\\goalcraft\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|solutionrelative:mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|c:\\users\\02liu\\desktop\\goalcraft\\goalcraft\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|c:\\users\\02liu\\desktop\\goalcraft\\goalcraft\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|c:\\users\\02liu\\desktop\\goalcraft\\goalcraft\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E9B18C-9DB8-408A-A5F0-1A314592903F}|GoalCraft.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +90,247 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NavBarViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\ViewModel\\NavBarViewModel.cs",
+              "RelativeDocumentMoniker": "MVVM\\ViewModel\\NavBarViewModel.cs",
+              "ToolTip": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\ViewModel\\NavBarViewModel.cs",
+              "RelativeToolTip": "MVVM\\ViewModel\\NavBarViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T14:21:14.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NavBarView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\View\\NavBarView.xaml.cs",
+              "RelativeDocumentMoniker": "MVVM\\View\\NavBarView.xaml.cs",
+              "ToolTip": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\View\\NavBarView.xaml.cs",
+              "RelativeToolTip": "MVVM\\View\\NavBarView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T20:59:19.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManageView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\View\\ManageView.xaml.cs",
+              "RelativeDocumentMoniker": "MVVM\\View\\ManageView.xaml.cs",
+              "ToolTip": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\View\\ManageView.xaml.cs",
+              "RelativeToolTip": "MVVM\\View\\ManageView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:10:26.892Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
+              "Title": "CreateView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\View\\CreateView.xaml.cs",
+              "RelativeDocumentMoniker": "MVVM\\View\\CreateView.xaml.cs",
+              "ToolTip": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\View\\CreateView.xaml.cs*",
+              "RelativeToolTip": "MVVM\\View\\CreateView.xaml.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T11:39:22.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "Commands\\RelayCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:29:40.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\ViewModel\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "MVVM\\ViewModel\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\ViewModel\\BaseViewModel.cs",
+              "RelativeToolTip": "MVVM\\ViewModel\\BaseViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T11:20:49.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\ViewModel\\CreateViewModel.cs",
+              "RelativeDocumentMoniker": "MVVM\\ViewModel\\CreateViewModel.cs",
+              "ToolTip": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\ViewModel\\CreateViewModel.cs",
+              "RelativeToolTip": "MVVM\\ViewModel\\CreateViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T11:24:43.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeView.xaml",
+              "DocumentMoniker": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\View\\HomeView.xaml",
+              "RelativeDocumentMoniker": "MVVM\\View\\HomeView.xaml",
+              "ToolTip": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\View\\HomeView.xaml",
+              "RelativeToolTip": "MVVM\\View\\HomeView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-15T10:05:48.224Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-03-26T11:24:57.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAABEAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T10:05:46.317Z",
+              "Title": "CreateView.xaml",
+              "DocumentMoniker": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\View\\CreateView.xaml",
+              "RelativeDocumentMoniker": "MVVM\\View\\CreateView.xaml",
+              "ToolTip": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\View\\CreateView.xaml",
+              "RelativeToolTip": "MVVM\\View\\CreateView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T11:25:54.288Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\ViewModel\\ManageViewModel.cs",
+              "RelativeDocumentMoniker": "MVVM\\ViewModel\\ManageViewModel.cs",
+              "ToolTip": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\ViewModel\\ManageViewModel.cs",
+              "RelativeToolTip": "MVVM\\ViewModel\\ManageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:53:00.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\ViewModel\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "MVVM\\ViewModel\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\ViewModel\\HomeViewModel.cs",
+              "RelativeToolTip": "MVVM\\ViewModel\\HomeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:25:16.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "MVVM\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "MVVM\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:45:10.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\View\\HomeView.xaml.cs",
+              "RelativeDocumentMoniker": "MVVM\\View\\HomeView.xaml.cs",
+              "ToolTip": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\View\\HomeView.xaml.cs",
+              "RelativeToolTip": "MVVM\\View\\HomeView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T21:08:34.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NavBarView.xaml",
+              "DocumentMoniker": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\View\\NavBarView.xaml",
+              "RelativeDocumentMoniker": "MVVM\\View\\NavBarView.xaml",
+              "ToolTip": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\View\\NavBarView.xaml",
+              "RelativeToolTip": "MVVM\\View\\NavBarView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T14:21:35.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManageView.xaml",
+              "DocumentMoniker": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\View\\ManageView.xaml",
+              "RelativeDocumentMoniker": "MVVM\\View\\ManageView.xaml",
+              "ToolTip": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\View\\ManageView.xaml",
+              "RelativeToolTip": "MVVM\\View\\ManageView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T12:53:50.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MVVM\\View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MVVM\\View\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:52:07.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MVVM\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\MVVM\\View\\MainWindow.xaml",
+              "RelativeToolTip": "MVVM\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T10:50:40.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T10:50:10.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:49:42.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\02liu\\Desktop\\GoalCraft\\GoalCraft\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T11:16:22.482Z"
             }
           ]
         }
